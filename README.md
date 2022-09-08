@@ -16,6 +16,7 @@ change
 ## Table of Contents
 
 <details><summary>Click to expand</summary>
+  cool
 
 - [Usage](#usage)
 - [Install](#install)
